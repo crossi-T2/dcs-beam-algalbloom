@@ -3,6 +3,7 @@
 
 This tutorial builds upon the on the work done in the context of the ESA Cat-1 project “Production of global MERIS MCI composite images for detection of plankton blooms and other events” submitted by Dr. Jim Gower. More context information is available from the [tutorial wiki page](https://github.com/Terradue/dcs-beam-algalbloom/wiki).
 
+
 Hereafter, we will guide you to implement a "MERIS Algal bloom detection using BEAM" application on Terradue's Cloud Platform, a set of Cloud services to develop, test and exploit scalable, distributed earth data processors. 
 
 ### Getting Started 
